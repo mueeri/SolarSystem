@@ -1,12 +1,7 @@
+Sun
 Mercury
 Venus
 Earth
 Mars
-<<<<<<< HEAD
-Venus
-Mars
 Jupiter
 Saturn
-=======
-Jupiter
->>>>>>> refs/remotes/origin/main
